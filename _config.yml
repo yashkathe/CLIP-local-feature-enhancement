@@ -1,0 +1,4 @@
+title: CLIP with Local Feature Enhancement 
+description: A dual encoder architecture that combines CLIP’s global features and ViT’s local features, fused via concatenation or attention layer, to enhance Visual Question Answering (VQA) performance.
+theme: jekyll-theme-midnight
+url: https://yashkathe.github.io/CLIP-local-feature-enhancement
